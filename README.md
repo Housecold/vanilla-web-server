@@ -70,4 +70,4 @@ Please make sure to update tests as appropriate.
 ## Contributors
 
 -  Daniel Magalhães - [@Housecold](https://github.com/Housecold)
--  David Vilaverde - [DTRV95](https://github.com/DTRV95)
+-  David Vilaverde - [@DTRV95](https://github.com/DTRV95)
